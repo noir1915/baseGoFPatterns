@@ -2,7 +2,7 @@ package net.noit1915.basepatterns.structural.proxy.some_cool_media_library;
 
 import java.util.HashMap;
 
-public class ThirdPartyYouTubeClass implements ThirdPartyYouTubeLib{
+public class ThirdPartyYouTubeClass implements ThirdPartyYouTubeLib {
     @Override
     public HashMap<String, Video> popularVideos() {
         connectToServer("http://www.youtube.com");

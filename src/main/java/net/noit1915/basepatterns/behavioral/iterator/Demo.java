@@ -25,8 +25,7 @@ public class Demo {
         SocialNetwork network;
         if (choice.equals("2")) {
             network = new LinkedIn(createTestProfiles());
-        }
-        else {
+        } else {
             network = new Facebook(createTestProfiles());
         }
 

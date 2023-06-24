@@ -20,8 +20,7 @@ public class Profile {
             String contactType = "friend", contactEmail;
             if (parts.length == 1) {
                 contactEmail = parts[0];
-            }
-            else {
+            } else {
                 contactType = parts[0];
                 contactEmail = parts[1];
             }

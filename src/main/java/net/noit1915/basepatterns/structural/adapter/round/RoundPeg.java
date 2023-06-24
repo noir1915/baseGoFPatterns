@@ -6,7 +6,8 @@ package net.noit1915.basepatterns.structural.adapter.round;
 public class RoundPeg {
     private double radius;
 
-    public RoundPeg() {}
+    public RoundPeg() {
+    }
 
     public RoundPeg(double radius) {
         this.radius = radius;

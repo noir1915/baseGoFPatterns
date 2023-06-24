@@ -5,7 +5,7 @@ import net.noit1915.basepatterns.creational.abstractFactory.buttons.WindowsButto
 import net.noit1915.basepatterns.creational.abstractFactory.checkboxes.Checkbox;
 import net.noit1915.basepatterns.creational.abstractFactory.checkboxes.WindowsCheckbox;
 
-public class WindowsFactory implements GUIFactory{
+public class WindowsFactory implements GUIFactory {
     @Override
     public Button createButton() {
         return new WindowsButton();

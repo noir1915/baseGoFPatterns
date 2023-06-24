@@ -41,11 +41,12 @@ public class List extends JList implements Component {
         try {
             LIST_MODEL.remove(index);
             mediator.sendToFilter(LIST_MODEL);
-        } catch (ArrayIndexOutOfBoundsException ignored) {}
+        } catch (ArrayIndexOutOfBoundsException ignored) {
+        }
     }
 
     public Note getCurrentElement() {
-        return (Note)getSelectedValue();
+        return (Note) getSelectedValue();
     }
 
     @Override

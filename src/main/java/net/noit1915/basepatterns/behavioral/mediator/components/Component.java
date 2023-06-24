@@ -7,5 +7,6 @@ import net.noit1915.basepatterns.behavioral.mediator.components.mediators.Mediat
  */
 public interface Component {
     void setMediator(Mediator mediator);
+
     String getName();
 }

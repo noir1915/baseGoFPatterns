@@ -5,5 +5,6 @@ import net.noit1915.basepatterns.creational.abstractFactory.checkboxes.Checkbox;
 
 public interface GUIFactory {
     Button createButton();
+
     Checkbox createCheckbox();
 }

@@ -11,7 +11,7 @@ public abstract class Middleware {
      */
     public static Middleware link(Middleware first, Middleware... chain) {
         Middleware head = first;
-        for (Middleware nextInChain: chain) {
+        for (Middleware nextInChain : chain) {
             head.next = nextInChain;
             head = nextInChain;
         }

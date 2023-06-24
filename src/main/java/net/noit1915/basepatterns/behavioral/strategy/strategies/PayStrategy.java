@@ -5,5 +5,6 @@ package net.noit1915.basepatterns.behavioral.strategy.strategies;
  */
 public interface PayStrategy {
     boolean pay(int paymentAmount);
+
     void collectPaymentDetails();
 }
