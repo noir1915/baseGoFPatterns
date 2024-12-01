@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.structural.decorator.decorators;
+package net.noir1915.basepatterns.structural.decorator.decorators;
 
 public class DataSourceDecorator implements DataSource {
     private DataSource wrappee;

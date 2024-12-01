@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.structural.composite.shapes;
+package net.noir1915.basepatterns.structural.composite.shapes;
 
 import java.awt.*;
 

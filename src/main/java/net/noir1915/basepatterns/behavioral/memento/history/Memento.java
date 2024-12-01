@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.behavioral.memento.history;
+package net.noir1915.basepatterns.behavioral.memento.history;
 
-import net.noit1915.basepatterns.behavioral.memento.editor.Editor;
+import net.noir1915.basepatterns.behavioral.memento.editor.Editor;
 
 public class Memento {
     private String backup;

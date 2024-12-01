@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.behavioral.iterator.profile;
+package net.noir1915.basepatterns.behavioral.iterator.profile;
 
 import java.util.ArrayList;
 import java.util.HashMap;

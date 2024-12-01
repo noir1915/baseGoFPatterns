@@ -1,8 +1,8 @@
-package net.noit1915.basepatterns.behavioral.iterator.social_networks;
+package net.noir1915.basepatterns.behavioral.iterator.social_networks;
 
-import net.noit1915.basepatterns.behavioral.iterator.iterators.FacebookIterator;
-import net.noit1915.basepatterns.behavioral.iterator.iterators.ProfileIterator;
-import net.noit1915.basepatterns.behavioral.iterator.profile.Profile;
+import net.noir1915.basepatterns.behavioral.iterator.iterators.FacebookIterator;
+import net.noir1915.basepatterns.behavioral.iterator.iterators.ProfileIterator;
+import net.noir1915.basepatterns.behavioral.iterator.profile.Profile;
 
 import java.util.ArrayList;
 import java.util.List;

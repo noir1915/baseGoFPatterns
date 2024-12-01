@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.structural.bridge.remotes;
+package net.noir1915.basepatterns.structural.bridge.remotes;
 
 public interface Remote {
     void power();

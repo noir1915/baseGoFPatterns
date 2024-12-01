@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.behavioral.chainofresponsibility.middleware;
+package net.noir1915.basepatterns.behavioral.chainofresponsibility.middleware;
 
 /**
  * Конкретный элемент цепи обрабатывает запрос по-своему.

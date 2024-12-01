@@ -1,8 +1,8 @@
-package net.noit1915.basepatterns.structural.flyweight.forest;
+package net.noir1915.basepatterns.structural.flyweight.forest;
 
-import net.noit1915.basepatterns.structural.flyweight.trees.Tree;
-import net.noit1915.basepatterns.structural.flyweight.trees.TreeFactory;
-import net.noit1915.basepatterns.structural.flyweight.trees.TreeType;
+import net.noir1915.basepatterns.structural.flyweight.trees.Tree;
+import net.noir1915.basepatterns.structural.flyweight.trees.TreeFactory;
+import net.noir1915.basepatterns.structural.flyweight.trees.TreeType;
 
 import javax.swing.*;
 import java.awt.*;

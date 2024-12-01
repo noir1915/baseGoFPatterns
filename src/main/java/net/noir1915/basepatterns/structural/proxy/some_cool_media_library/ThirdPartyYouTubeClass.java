@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.structural.proxy.some_cool_media_library;
+package net.noir1915.basepatterns.structural.proxy.some_cool_media_library;
 
 import java.util.HashMap;
 

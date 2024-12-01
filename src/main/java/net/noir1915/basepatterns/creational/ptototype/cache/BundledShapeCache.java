@@ -1,8 +1,8 @@
-package net.noit1915.basepatterns.creational.ptototype.cache;
+package net.noir1915.basepatterns.creational.ptototype.cache;
 
-import net.noit1915.basepatterns.creational.ptototype.shapes.Circle;
-import net.noit1915.basepatterns.creational.ptototype.shapes.Rectangle;
-import net.noit1915.basepatterns.creational.ptototype.shapes.Shape;
+import net.noir1915.basepatterns.creational.ptototype.shapes.Circle;
+import net.noir1915.basepatterns.creational.ptototype.shapes.Rectangle;
+import net.noir1915.basepatterns.creational.ptototype.shapes.Shape;
 
 import java.awt.*;
 import java.util.HashMap;

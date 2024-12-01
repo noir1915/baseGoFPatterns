@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.behavioral.templateMethod.networks;
+package net.noir1915.basepatterns.behavioral.templateMethod.networks;
 
 /**
  * Класс социальной сети.

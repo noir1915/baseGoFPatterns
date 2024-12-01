@@ -1,10 +1,10 @@
-package net.noit1915.basepatterns.behavioral.memento.editor;
+package net.noir1915.basepatterns.behavioral.memento.editor;
 
-import net.noit1915.basepatterns.behavioral.memento.commands.Command;
-import net.noit1915.basepatterns.behavioral.memento.history.History;
-import net.noit1915.basepatterns.behavioral.memento.history.Memento;
-import net.noit1915.basepatterns.behavioral.memento.shapes.CompoundShape;
-import net.noit1915.basepatterns.behavioral.memento.shapes.Shape;
+import net.noir1915.basepatterns.behavioral.memento.commands.Command;
+import net.noir1915.basepatterns.behavioral.memento.history.History;
+import net.noir1915.basepatterns.behavioral.memento.history.Memento;
+import net.noir1915.basepatterns.behavioral.memento.shapes.CompoundShape;
+import net.noir1915.basepatterns.behavioral.memento.shapes.Shape;
 
 import javax.swing.*;
 import java.io.*;

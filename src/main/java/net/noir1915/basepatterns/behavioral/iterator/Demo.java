@@ -1,10 +1,10 @@
-package net.noit1915.basepatterns.behavioral.iterator;
+package net.noir1915.basepatterns.behavioral.iterator;
 
-import net.noit1915.basepatterns.behavioral.iterator.profile.Profile;
-import net.noit1915.basepatterns.behavioral.iterator.social_networks.Facebook;
-import net.noit1915.basepatterns.behavioral.iterator.social_networks.LinkedIn;
-import net.noit1915.basepatterns.behavioral.iterator.social_networks.SocialNetwork;
-import net.noit1915.basepatterns.behavioral.iterator.spammer.SocialSpammer;
+import net.noir1915.basepatterns.behavioral.iterator.profile.Profile;
+import net.noir1915.basepatterns.behavioral.iterator.social_networks.Facebook;
+import net.noir1915.basepatterns.behavioral.iterator.social_networks.LinkedIn;
+import net.noir1915.basepatterns.behavioral.iterator.social_networks.SocialNetwork;
+import net.noir1915.basepatterns.behavioral.iterator.spammer.SocialSpammer;
 
 import java.util.ArrayList;
 import java.util.List;

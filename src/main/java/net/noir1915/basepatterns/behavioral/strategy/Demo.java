@@ -1,9 +1,9 @@
-package net.noit1915.basepatterns.behavioral.strategy;
+package net.noir1915.basepatterns.behavioral.strategy;
 
-import net.noit1915.basepatterns.behavioral.strategy.order.Order;
-import net.noit1915.basepatterns.behavioral.strategy.strategies.PayByCreditCard;
-import net.noit1915.basepatterns.behavioral.strategy.strategies.PayByPayPal;
-import net.noit1915.basepatterns.behavioral.strategy.strategies.PayStrategy;
+import net.noir1915.basepatterns.behavioral.strategy.order.Order;
+import net.noir1915.basepatterns.behavioral.strategy.strategies.PayByCreditCard;
+import net.noir1915.basepatterns.behavioral.strategy.strategies.PayByPayPal;
+import net.noir1915.basepatterns.behavioral.strategy.strategies.PayStrategy;
 
 import java.io.BufferedReader;
 import java.io.IOException;

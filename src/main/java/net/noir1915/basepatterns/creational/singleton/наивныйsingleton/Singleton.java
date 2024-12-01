@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.creational.singleton.наивныйsingleton;
+package net.noir1915.basepatterns.creational.singleton.наивныйsingleton;
 
 public final class Singleton {
     private static Singleton instance;

@@ -1,7 +1,7 @@
-package net.noit1915.basepatterns.behavioral.mediator.components;
+package net.noir1915.basepatterns.behavioral.mediator.components;
 
-import net.noit1915.basepatterns.behavioral.mediator.components.mediators.Mediator;
-import net.noit1915.basepatterns.behavioral.mediator.components.mediators.Note;
+import net.noir1915.basepatterns.behavioral.mediator.components.mediators.Mediator;
+import net.noir1915.basepatterns.behavioral.mediator.components.mediators.Note;
 
 import javax.swing.*;
 import java.awt.event.KeyEvent;

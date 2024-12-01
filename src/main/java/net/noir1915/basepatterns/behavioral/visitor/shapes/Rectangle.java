@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.behavioral.visitor.shapes;
+package net.noir1915.basepatterns.behavioral.visitor.shapes;
 
-import net.noit1915.basepatterns.behavioral.visitor.visitors.Visitor;
+import net.noir1915.basepatterns.behavioral.visitor.visitors.Visitor;
 
 public class Rectangle implements Shape {
     private int id;

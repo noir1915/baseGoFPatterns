@@ -1,7 +1,7 @@
-package net.noit1915.basepatterns.behavioral.memento.commands;
+package net.noir1915.basepatterns.behavioral.memento.commands;
 
-import net.noit1915.basepatterns.behavioral.memento.editor.Editor;
-import net.noit1915.basepatterns.behavioral.memento.shapes.Shape;
+import net.noir1915.basepatterns.behavioral.memento.editor.Editor;
+import net.noir1915.basepatterns.behavioral.memento.shapes.Shape;
 
 public class MoveCommand implements Command {
     private Editor editor;

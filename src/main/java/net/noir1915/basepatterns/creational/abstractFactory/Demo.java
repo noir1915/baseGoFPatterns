@@ -1,9 +1,9 @@
-package net.noit1915.basepatterns.creational.abstractFactory;
+package net.noir1915.basepatterns.creational.abstractFactory;
 
-import net.noit1915.basepatterns.creational.abstractFactory.app.Application;
-import net.noit1915.basepatterns.creational.abstractFactory.factories.GUIFactory;
-import net.noit1915.basepatterns.creational.abstractFactory.factories.MacOSFactory;
-import net.noit1915.basepatterns.creational.abstractFactory.factories.WindowsFactory;
+import net.noir1915.basepatterns.creational.abstractFactory.app.Application;
+import net.noir1915.basepatterns.creational.abstractFactory.factories.GUIFactory;
+import net.noir1915.basepatterns.creational.abstractFactory.factories.MacOSFactory;
+import net.noir1915.basepatterns.creational.abstractFactory.factories.WindowsFactory;
 
 /**
  * Демо-класс. Здесь всё сводится воедино.

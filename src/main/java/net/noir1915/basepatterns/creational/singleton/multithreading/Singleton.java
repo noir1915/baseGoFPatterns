@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.creational.singleton.multithreading;
+package net.noir1915.basepatterns.creational.singleton.multithreading;
 
 public class Singleton {
     // Поле обязательно должно быть объявлено volatile, чтобы двойная проверка

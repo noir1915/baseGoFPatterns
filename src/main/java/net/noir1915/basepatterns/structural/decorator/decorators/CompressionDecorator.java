@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.structural.decorator.decorators;
+package net.noir1915.basepatterns.structural.decorator.decorators;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

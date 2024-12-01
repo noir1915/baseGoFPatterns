@@ -1,7 +1,7 @@
-package net.noit1915.basepatterns.creational.factoryMethod.factory;
+package net.noir1915.basepatterns.creational.factoryMethod.factory;
 
-import net.noit1915.basepatterns.creational.factoryMethod.buttons.Button;
-import net.noit1915.basepatterns.creational.factoryMethod.buttons.HtmlButton;
+import net.noir1915.basepatterns.creational.factoryMethod.buttons.Button;
+import net.noir1915.basepatterns.creational.factoryMethod.buttons.HtmlButton;
 
 public class HtmlDialog extends Dialog {
 

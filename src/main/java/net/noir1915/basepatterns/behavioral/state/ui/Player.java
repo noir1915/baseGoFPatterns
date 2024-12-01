@@ -1,7 +1,7 @@
-package net.noit1915.basepatterns.behavioral.state.ui;
+package net.noir1915.basepatterns.behavioral.state.ui;
 
-import net.noit1915.basepatterns.behavioral.state.states.ReadyState;
-import net.noit1915.basepatterns.behavioral.state.states.State;
+import net.noir1915.basepatterns.behavioral.state.states.ReadyState;
+import net.noir1915.basepatterns.behavioral.state.states.State;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.structural.flyweight;
+package net.noir1915.basepatterns.structural.flyweight;
 
-import net.noit1915.basepatterns.structural.flyweight.forest.Forest;
+import net.noir1915.basepatterns.structural.flyweight.forest.Forest;
 
 import java.awt.*;
 

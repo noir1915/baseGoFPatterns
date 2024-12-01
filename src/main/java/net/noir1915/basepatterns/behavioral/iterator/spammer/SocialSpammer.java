@@ -1,8 +1,8 @@
-package net.noit1915.basepatterns.behavioral.iterator.spammer;
+package net.noir1915.basepatterns.behavioral.iterator.spammer;
 
-import net.noit1915.basepatterns.behavioral.iterator.iterators.ProfileIterator;
-import net.noit1915.basepatterns.behavioral.iterator.profile.Profile;
-import net.noit1915.basepatterns.behavioral.iterator.social_networks.SocialNetwork;
+import net.noir1915.basepatterns.behavioral.iterator.iterators.ProfileIterator;
+import net.noir1915.basepatterns.behavioral.iterator.profile.Profile;
+import net.noir1915.basepatterns.behavioral.iterator.social_networks.SocialNetwork;
 
 public class SocialSpammer {
     public SocialNetwork network;

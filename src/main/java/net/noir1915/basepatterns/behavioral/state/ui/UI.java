@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.behavioral.state.ui;
+package net.noir1915.basepatterns.behavioral.state.ui;
 
 import javax.swing.*;
 import java.awt.*;

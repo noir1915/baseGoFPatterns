@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.creational.ptototype.shapes;
+package net.noir1915.basepatterns.creational.ptototype.shapes;
 
 import java.util.Objects;
 

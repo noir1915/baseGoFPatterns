@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.behavioral.strategy.order;
+package net.noir1915.basepatterns.behavioral.strategy.order;
 
-import net.noit1915.basepatterns.behavioral.strategy.strategies.PayStrategy;
+import net.noir1915.basepatterns.behavioral.strategy.strategies.PayStrategy;
 
 /**
  * Класс заказа. Ничего не знает о том каким способом (стратегией) будет

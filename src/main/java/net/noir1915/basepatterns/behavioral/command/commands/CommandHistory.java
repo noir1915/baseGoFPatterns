@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.behavioral.command.commands;
+package net.noir1915.basepatterns.behavioral.command.commands;
 
 import java.util.Stack;
 

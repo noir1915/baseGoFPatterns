@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.behavioral.command.editor;
+package net.noir1915.basepatterns.behavioral.command.editor;
 
-import net.noit1915.basepatterns.behavioral.command.commands.*;
+import net.noir1915.basepatterns.behavioral.command.commands.*;
 
 import javax.swing.*;
 import java.awt.*;

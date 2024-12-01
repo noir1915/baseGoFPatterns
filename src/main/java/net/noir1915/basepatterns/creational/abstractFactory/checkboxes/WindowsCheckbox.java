@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.creational.abstractFactory.checkboxes;
+package net.noir1915.basepatterns.creational.abstractFactory.checkboxes;
 
 public class WindowsCheckbox implements Checkbox {
     @Override

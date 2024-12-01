@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.structural.flyweight.trees;
+package net.noir1915.basepatterns.structural.flyweight.trees;
 
 import java.awt.*;
 import java.util.HashMap;

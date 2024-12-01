@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.behavioral.strategy.strategies;
+package net.noir1915.basepatterns.behavioral.strategy.strategies;
 
 /**
  * Очень наивная реализация кредитной карты.

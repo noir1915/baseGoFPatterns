@@ -1,8 +1,8 @@
-package net.noit1915.basepatterns.structural.proxy;
+package net.noir1915.basepatterns.structural.proxy;
 
-import net.noit1915.basepatterns.structural.proxy.downloader.YouTubeDownloader;
-import net.noit1915.basepatterns.structural.proxy.proxyx.YouTubeCacheProxy;
-import net.noit1915.basepatterns.structural.proxy.some_cool_media_library.ThirdPartyYouTubeClass;
+import net.noir1915.basepatterns.structural.proxy.downloader.YouTubeDownloader;
+import net.noir1915.basepatterns.structural.proxy.proxyx.YouTubeCacheProxy;
+import net.noir1915.basepatterns.structural.proxy.some_cool_media_library.ThirdPartyYouTubeClass;
 
 public class Demo {
     public static void main(String[] args) {

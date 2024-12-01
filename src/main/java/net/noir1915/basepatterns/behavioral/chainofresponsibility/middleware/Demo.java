@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.behavioral.chainofresponsibility.middleware;
+package net.noir1915.basepatterns.behavioral.chainofresponsibility.middleware;
 
-import net.noit1915.basepatterns.behavioral.chainofresponsibility.middleware.server.Server;
+import net.noir1915.basepatterns.behavioral.chainofresponsibility.middleware.server.Server;
 
 import java.io.BufferedReader;
 import java.io.IOException;

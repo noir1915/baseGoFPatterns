@@ -1,9 +1,9 @@
-package net.noit1915.basepatterns.creational.abstractFactory.factories;
+package net.noir1915.basepatterns.creational.abstractFactory.factories;
 
-import net.noit1915.basepatterns.creational.abstractFactory.buttons.Button;
-import net.noit1915.basepatterns.creational.abstractFactory.buttons.WindowsButton;
-import net.noit1915.basepatterns.creational.abstractFactory.checkboxes.Checkbox;
-import net.noit1915.basepatterns.creational.abstractFactory.checkboxes.WindowsCheckbox;
+import net.noir1915.basepatterns.creational.abstractFactory.buttons.Button;
+import net.noir1915.basepatterns.creational.abstractFactory.buttons.WindowsButton;
+import net.noir1915.basepatterns.creational.abstractFactory.checkboxes.Checkbox;
+import net.noir1915.basepatterns.creational.abstractFactory.checkboxes.WindowsCheckbox;
 
 public class WindowsFactory implements GUIFactory {
     @Override

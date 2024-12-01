@@ -1,6 +1,7 @@
-package net.noit1915.basepatterns.behavioral.command.commands;
+package net.noir1915.basepatterns.behavioral.command.commands;
 
-import net.noit1915.basepatterns.behavioral.command.editor.Editor;
+
+import net.noir1915.basepatterns.behavioral.command.editor.Editor;
 
 public class CopyCommand extends Command {
 

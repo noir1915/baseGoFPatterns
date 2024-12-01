@@ -1,7 +1,7 @@
-package net.noit1915.basepatterns.behavioral.state;
+package net.noir1915.basepatterns.behavioral.state;
 
-import net.noit1915.basepatterns.behavioral.state.ui.Player;
-import net.noit1915.basepatterns.behavioral.state.ui.UI;
+import net.noir1915.basepatterns.behavioral.state.ui.Player;
+import net.noir1915.basepatterns.behavioral.state.ui.UI;
 
 /**
  * Демо-класс. Здесь всё сводится воедино.

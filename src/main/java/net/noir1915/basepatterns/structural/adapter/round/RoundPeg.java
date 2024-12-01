@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.structural.adapter.round;
+package net.noir1915.basepatterns.structural.adapter.round;
 
 /**
  * КруглыеКолышки совместимы с КруглымиОтверстиями.

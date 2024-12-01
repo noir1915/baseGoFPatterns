@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.structural.bridge.remotes;
+package net.noir1915.basepatterns.structural.bridge.remotes;
 
-import net.noit1915.basepatterns.structural.bridge.devices.Device;
+import net.noir1915.basepatterns.structural.bridge.devices.Device;
 
 public class BasicRemote implements Remote {
     protected Device device;

@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.behavioral.state.states;
+package net.noir1915.basepatterns.behavioral.state.states;
 
-import net.noit1915.basepatterns.behavioral.state.ui.Player;
+import net.noir1915.basepatterns.behavioral.state.ui.Player;
 
 /**
  * Они также могут переводить контекст в другие состояния.

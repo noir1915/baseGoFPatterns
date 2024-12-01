@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.creational.factoryMethod.buttons;
+package net.noir1915.basepatterns.creational.factoryMethod.buttons;
 
 public class HtmlButton implements Button {
 

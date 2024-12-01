@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.structural.adapter.square;
+package net.noir1915.basepatterns.structural.adapter.square;
 
 /**
  * КвадратныеКолышки несовместимы с КруглымиОтверстиями (они остались в проекте

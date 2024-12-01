@@ -1,9 +1,9 @@
-package net.noit1915.basepatterns.creational.builder.cars;
+package net.noir1915.basepatterns.creational.builder.cars;
 
-import net.noit1915.basepatterns.creational.builder.components.Engine;
-import net.noit1915.basepatterns.creational.builder.components.GPSNavigator;
-import net.noit1915.basepatterns.creational.builder.components.Transmission;
-import net.noit1915.basepatterns.creational.builder.components.TripComputer;
+import net.noir1915.basepatterns.creational.builder.components.Engine;
+import net.noir1915.basepatterns.creational.builder.components.GPSNavigator;
+import net.noir1915.basepatterns.creational.builder.components.Transmission;
+import net.noir1915.basepatterns.creational.builder.components.TripComputer;
 
 /**
  * Руководство автомобиля — это второй продукт. Заметьте, что руководство и сам

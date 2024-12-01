@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.behavioral.visitor.visitors;
+package net.noir1915.basepatterns.behavioral.visitor.visitors;
 
-import net.noit1915.basepatterns.behavioral.visitor.shapes.*;
+import net.noir1915.basepatterns.behavioral.visitor.shapes.*;
 
 public class XMLExportVisitor implements Visitor {
 

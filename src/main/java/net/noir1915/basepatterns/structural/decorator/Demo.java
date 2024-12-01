@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.structural.decorator;
+package net.noir1915.basepatterns.structural.decorator;
 
-import net.noit1915.basepatterns.structural.decorator.decorators.*;
+import net.noir1915.basepatterns.structural.decorator.decorators.*;
 
 public class Demo {
     public static void main(String[] args) {

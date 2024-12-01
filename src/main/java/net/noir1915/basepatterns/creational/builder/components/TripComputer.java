@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.creational.builder.components;
+package net.noir1915.basepatterns.creational.builder.components;
 
-import net.noit1915.basepatterns.creational.builder.cars.Car;
+import net.noir1915.basepatterns.creational.builder.cars.Car;
 
 public class TripComputer {
 

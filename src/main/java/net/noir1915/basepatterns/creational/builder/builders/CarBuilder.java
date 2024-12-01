@@ -1,12 +1,12 @@
-package net.noit1915.basepatterns.creational.builder.builders;
+package net.noir1915.basepatterns.creational.builder.builders;
 
-import net.noit1915.basepatterns.creational.builder.builders.Builder;
-import net.noit1915.basepatterns.creational.builder.cars.Car;
-import net.noit1915.basepatterns.creational.builder.cars.CarType;
-import net.noit1915.basepatterns.creational.builder.components.Engine;
-import net.noit1915.basepatterns.creational.builder.components.GPSNavigator;
-import net.noit1915.basepatterns.creational.builder.components.Transmission;
-import net.noit1915.basepatterns.creational.builder.components.TripComputer;
+import net.noir1915.basepatterns.creational.builder.builders.Builder;
+import net.noir1915.basepatterns.creational.builder.cars.Car;
+import net.noir1915.basepatterns.creational.builder.cars.CarType;
+import net.noir1915.basepatterns.creational.builder.components.Engine;
+import net.noir1915.basepatterns.creational.builder.components.GPSNavigator;
+import net.noir1915.basepatterns.creational.builder.components.Transmission;
+import net.noir1915.basepatterns.creational.builder.components.TripComputer;
 
 public class CarBuilder implements Builder {
 

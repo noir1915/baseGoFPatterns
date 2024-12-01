@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.structural.bridge.devices;
+package net.noir1915.basepatterns.structural.bridge.devices;
 
 public interface Device {
     boolean isEnabled();

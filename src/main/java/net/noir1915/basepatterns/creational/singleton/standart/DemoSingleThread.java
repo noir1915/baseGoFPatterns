@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.creational.singleton.standart;
+package net.noir1915.basepatterns.creational.singleton.standart;
 
 public class DemoSingleThread {
     public static void main(String[] args) {

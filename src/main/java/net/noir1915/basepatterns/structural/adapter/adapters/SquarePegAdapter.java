@@ -1,7 +1,7 @@
-package net.noit1915.basepatterns.structural.adapter.adapters;
+package net.noir1915.basepatterns.structural.adapter.adapters;
 
-import net.noit1915.basepatterns.structural.adapter.round.RoundPeg;
-import net.noit1915.basepatterns.structural.adapter.square.SquarePeg;
+import net.noir1915.basepatterns.structural.adapter.round.RoundPeg;
+import net.noir1915.basepatterns.structural.adapter.square.SquarePeg;
 
 /**
  * Адаптер позволяет использовать КвадратныеКолышки и КруглыеОтверстия вместе.

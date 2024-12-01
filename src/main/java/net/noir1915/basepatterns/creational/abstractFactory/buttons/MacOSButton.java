@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.creational.abstractFactory.buttons;
+package net.noir1915.basepatterns.creational.abstractFactory.buttons;
 
 public class MacOSButton implements Button {
     @Override

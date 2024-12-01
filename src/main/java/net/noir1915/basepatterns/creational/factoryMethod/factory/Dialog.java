@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.creational.factoryMethod.factory;
+package net.noir1915.basepatterns.creational.factoryMethod.factory;
 
-import net.noit1915.basepatterns.creational.factoryMethod.buttons.Button;
+import net.noir1915.basepatterns.creational.factoryMethod.buttons.Button;
 
 public abstract class Dialog {
     public void renderWindow() {

@@ -1,7 +1,7 @@
-package net.noit1915.basepatterns.structural.composite.editor;
+package net.noir1915.basepatterns.structural.composite.editor;
 
-import net.noit1915.basepatterns.structural.composite.shapes.CompoundShape;
-import net.noit1915.basepatterns.structural.composite.shapes.Shape;
+import net.noir1915.basepatterns.structural.composite.shapes.CompoundShape;
+import net.noir1915.basepatterns.structural.composite.shapes.Shape;
 
 import javax.swing.*;
 import javax.swing.border.Border;

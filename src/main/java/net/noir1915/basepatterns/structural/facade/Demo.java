@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.structural.facade;
+package net.noir1915.basepatterns.structural.facade;
 
-import net.noit1915.basepatterns.structural.facade.facades.VideoConversionFacade;
+import net.noir1915.basepatterns.structural.facade.facades.VideoConversionFacade;
 
 import java.io.File;
 

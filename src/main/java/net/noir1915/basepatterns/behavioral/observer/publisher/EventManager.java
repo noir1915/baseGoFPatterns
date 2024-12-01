@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.behavioral.observer.publisher;
+package net.noir1915.basepatterns.behavioral.observer.publisher;
 
-import net.noit1915.basepatterns.behavioral.observer.listeners.EventListener;
+import net.noir1915.basepatterns.behavioral.observer.listeners.EventListener;
 
 import java.io.File;
 import java.util.ArrayList;

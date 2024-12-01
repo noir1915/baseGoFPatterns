@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.structural.facade.facades;
+package net.noir1915.basepatterns.structural.facade.facades;
 
-import net.noit1915.basepatterns.structural.facade.some_complex_media_library.*;
+import net.noir1915.basepatterns.structural.facade.some_complex_media_library.*;
 
 import java.io.File;
 

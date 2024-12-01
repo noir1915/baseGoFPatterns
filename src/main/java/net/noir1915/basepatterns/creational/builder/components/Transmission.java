@@ -1,4 +1,4 @@
-package net.noit1915.basepatterns.creational.builder.components;
+package net.noir1915.basepatterns.creational.builder.components;
 
 /**
  * Одна из фишек автомобиля.

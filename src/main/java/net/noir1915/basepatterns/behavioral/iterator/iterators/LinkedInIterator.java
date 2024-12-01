@@ -1,7 +1,7 @@
-package net.noit1915.basepatterns.behavioral.iterator.iterators;
+package net.noir1915.basepatterns.behavioral.iterator.iterators;
 
-import net.noit1915.basepatterns.behavioral.iterator.profile.Profile;
-import net.noit1915.basepatterns.behavioral.iterator.social_networks.LinkedIn;
+import net.noir1915.basepatterns.behavioral.iterator.profile.Profile;
+import net.noir1915.basepatterns.behavioral.iterator.social_networks.LinkedIn;
 
 import java.util.ArrayList;
 import java.util.List;

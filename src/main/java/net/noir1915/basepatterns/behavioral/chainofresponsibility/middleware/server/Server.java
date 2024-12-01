@@ -1,6 +1,6 @@
-package net.noit1915.basepatterns.behavioral.chainofresponsibility.middleware.server;
+package net.noir1915.basepatterns.behavioral.chainofresponsibility.middleware.server;
 
-import net.noit1915.basepatterns.behavioral.chainofresponsibility.middleware.Middleware;
+import net.noir1915.basepatterns.behavioral.chainofresponsibility.middleware.Middleware;
 
 import java.util.HashMap;
 import java.util.Map;

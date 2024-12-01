@@ -1,9 +1,9 @@
-package net.noit1915.basepatterns.behavioral.visitor.visitors;
+package net.noir1915.basepatterns.behavioral.visitor.visitors;
 
-import net.noit1915.basepatterns.behavioral.visitor.shapes.Circle;
-import net.noit1915.basepatterns.behavioral.visitor.shapes.CompoundShape;
-import net.noit1915.basepatterns.behavioral.visitor.shapes.Dot;
-import net.noit1915.basepatterns.behavioral.visitor.shapes.Rectangle;
+import net.noir1915.basepatterns.behavioral.visitor.shapes.Circle;
+import net.noir1915.basepatterns.behavioral.visitor.shapes.CompoundShape;
+import net.noir1915.basepatterns.behavioral.visitor.shapes.Dot;
+import net.noir1915.basepatterns.behavioral.visitor.shapes.Rectangle;
 
 public interface Visitor {
     String visitDot(Dot dot);

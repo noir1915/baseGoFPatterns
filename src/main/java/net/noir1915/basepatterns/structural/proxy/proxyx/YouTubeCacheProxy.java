@@ -1,8 +1,8 @@
-package net.noit1915.basepatterns.structural.proxy.proxyx;
+package net.noir1915.basepatterns.structural.proxy.proxyx;
 
-import net.noit1915.basepatterns.structural.proxy.some_cool_media_library.ThirdPartyYouTubeClass;
-import net.noit1915.basepatterns.structural.proxy.some_cool_media_library.ThirdPartyYouTubeLib;
-import net.noit1915.basepatterns.structural.proxy.some_cool_media_library.Video;
+import net.noir1915.basepatterns.structural.proxy.some_cool_media_library.ThirdPartyYouTubeClass;
+import net.noir1915.basepatterns.structural.proxy.some_cool_media_library.ThirdPartyYouTubeLib;
+import net.noir1915.basepatterns.structural.proxy.some_cool_media_library.Video;
 
 import java.util.HashMap;
 

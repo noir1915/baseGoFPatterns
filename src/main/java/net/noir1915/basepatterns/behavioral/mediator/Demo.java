@@ -1,8 +1,8 @@
-package net.noit1915.basepatterns.behavioral.mediator;
+package net.noir1915.basepatterns.behavioral.mediator;
 
-import net.noit1915.basepatterns.behavioral.mediator.components.*;
-import net.noit1915.basepatterns.behavioral.mediator.components.mediators.Editor;
-import net.noit1915.basepatterns.behavioral.mediator.components.mediators.Mediator;
+import net.noir1915.basepatterns.behavioral.mediator.components.*;
+import net.noir1915.basepatterns.behavioral.mediator.components.mediators.Editor;
+import net.noir1915.basepatterns.behavioral.mediator.components.mediators.Mediator;
 
 import javax.swing.*;
 

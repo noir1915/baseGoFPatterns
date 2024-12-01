@@ -1,7 +1,7 @@
-package net.noit1915.basepatterns.behavioral.visitor;
+package net.noir1915.basepatterns.behavioral.visitor;
 
-import net.noit1915.basepatterns.behavioral.visitor.shapes.*;
-import net.noit1915.basepatterns.behavioral.visitor.visitors.XMLExportVisitor;
+import net.noir1915.basepatterns.behavioral.visitor.shapes.*;
+import net.noir1915.basepatterns.behavioral.visitor.visitors.XMLExportVisitor;
 
 public class Demo {
     public static void main(String[] args) {

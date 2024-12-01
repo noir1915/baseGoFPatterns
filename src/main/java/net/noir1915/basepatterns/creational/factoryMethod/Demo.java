@@ -1,8 +1,8 @@
-package net.noit1915.basepatterns.creational.factoryMethod;
+package net.noir1915.basepatterns.creational.factoryMethod;
 
-import net.noit1915.basepatterns.creational.factoryMethod.factory.Dialog;
-import net.noit1915.basepatterns.creational.factoryMethod.factory.HtmlDialog;
-import net.noit1915.basepatterns.creational.factoryMethod.factory.WindowsDialog;
+import net.noir1915.basepatterns.creational.factoryMethod.factory.Dialog;
+import net.noir1915.basepatterns.creational.factoryMethod.factory.HtmlDialog;
+import net.noir1915.basepatterns.creational.factoryMethod.factory.WindowsDialog;
 
 public class Demo {
     private static Dialog dialog;

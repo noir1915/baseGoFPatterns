@@ -1,8 +1,8 @@
-package net.noit1915.basepatterns.behavioral.templateMethod;
+package net.noir1915.basepatterns.behavioral.templateMethod;
 
-import net.noit1915.basepatterns.behavioral.templateMethod.networks.Facebook;
-import net.noit1915.basepatterns.behavioral.templateMethod.networks.Network;
-import net.noit1915.basepatterns.behavioral.templateMethod.networks.Twitter;
+import net.noir1915.basepatterns.behavioral.templateMethod.networks.Facebook;
+import net.noir1915.basepatterns.behavioral.templateMethod.networks.Network;
+import net.noir1915.basepatterns.behavioral.templateMethod.networks.Twitter;
 
 import java.io.BufferedReader;
 import java.io.IOException;

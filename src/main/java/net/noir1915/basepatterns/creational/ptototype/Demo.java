@@ -1,7 +1,7 @@
-package net.noit1915.basepatterns.creational.ptototype;
+package net.noir1915.basepatterns.creational.ptototype;
 
-import net.noit1915.basepatterns.creational.ptototype.cache.BundledShapeCache;
-import net.noit1915.basepatterns.creational.ptototype.shapes.Shape;
+import net.noir1915.basepatterns.creational.ptototype.cache.BundledShapeCache;
+import net.noir1915.basepatterns.creational.ptototype.shapes.Shape;
 
 
 public class Demo {

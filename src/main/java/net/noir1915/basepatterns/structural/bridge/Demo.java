@@ -1,10 +1,10 @@
-package net.noit1915.basepatterns.structural.bridge;
+package net.noir1915.basepatterns.structural.bridge;
 
-import net.noit1915.basepatterns.structural.bridge.devices.Device;
-import net.noit1915.basepatterns.structural.bridge.devices.Radio;
-import net.noit1915.basepatterns.structural.bridge.devices.Tv;
-import net.noit1915.basepatterns.structural.bridge.remotes.AdvancedRemote;
-import net.noit1915.basepatterns.structural.bridge.remotes.BasicRemote;
+import net.noir1915.basepatterns.structural.bridge.devices.Device;
+import net.noir1915.basepatterns.structural.bridge.devices.Radio;
+import net.noir1915.basepatterns.structural.bridge.devices.Tv;
+import net.noir1915.basepatterns.structural.bridge.remotes.AdvancedRemote;
+import net.noir1915.basepatterns.structural.bridge.remotes.BasicRemote;
 
 public class Demo {
 

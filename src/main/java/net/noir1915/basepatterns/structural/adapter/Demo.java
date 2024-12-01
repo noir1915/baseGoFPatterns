@@ -1,9 +1,9 @@
-package net.noit1915.basepatterns.structural.adapter;
+package net.noir1915.basepatterns.structural.adapter;
 
-import net.noit1915.basepatterns.structural.adapter.adapters.SquarePegAdapter;
-import net.noit1915.basepatterns.structural.adapter.round.RoundHole;
-import net.noit1915.basepatterns.structural.adapter.round.RoundPeg;
-import net.noit1915.basepatterns.structural.adapter.square.SquarePeg;
+import net.noir1915.basepatterns.structural.adapter.adapters.SquarePegAdapter;
+import net.noir1915.basepatterns.structural.adapter.round.RoundHole;
+import net.noir1915.basepatterns.structural.adapter.round.RoundPeg;
+import net.noir1915.basepatterns.structural.adapter.square.SquarePeg;
 
 /**
  * Где-то в клиентском коде...

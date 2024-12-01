@@ -1,10 +1,10 @@
-package net.noit1915.basepatterns.structural.composite;
+package net.noir1915.basepatterns.structural.composite;
 
-import net.noit1915.basepatterns.structural.composite.editor.ImageEditor;
-import net.noit1915.basepatterns.structural.composite.shapes.Circle;
-import net.noit1915.basepatterns.structural.composite.shapes.CompoundShape;
-import net.noit1915.basepatterns.structural.composite.shapes.Dot;
-import net.noit1915.basepatterns.structural.composite.shapes.Rectangle;
+import net.noir1915.basepatterns.structural.composite.editor.ImageEditor;
+import net.noir1915.basepatterns.structural.composite.shapes.Circle;
+import net.noir1915.basepatterns.structural.composite.shapes.CompoundShape;
+import net.noir1915.basepatterns.structural.composite.shapes.Dot;
+import net.noir1915.basepatterns.structural.composite.shapes.Rectangle;
 
 import java.awt.*;
 
